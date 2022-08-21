@@ -12,14 +12,17 @@
 
 # Features
 
-The _pencil_ plugin aspires to make Vim as powerful a tool for writers as
-it is for coders by focusing narrowly on the handful of tweaks needed to
-smooth the path to writing prose.
+The _pencil_ plugin aspires to make Vim as powerful a tool for writers as it
+is for coders by
+focusing narrowly on the handful of tweaks needed to smooth the path to writing prose.
 
-* For editing prose-oriented file types such as _text_, _markdown_,
-  _mail_, _rst_, _tex_, _textile_, and _asciidoc_
-* Agnostic on soft line wrap _versus_ hard line breaks, supporting both
-* Auto-detects wrap mode via `modeline` and sampling
+
+* For editing 
+    prose-oriented file types such as _text_, _markdown_,
+    _mail_, _rst_, _tex_, _textile_, and _asciidoc_
+* Agnostic on soft line wrap _versus_ hard line breaks,
+    supporting both
+        Auto-detects wrap mode via `modeline` and  sampling
 * Adjusts navigation key mappings to suit the wrap mode
 * Creates undo points on common punctuation during Insert mode, including
   deletion via line `<C-U>` and word `<C-W>`
@@ -42,9 +45,11 @@ draw upon its rich ecosystem of plugins.
 
 # Why use Vim for writing?
 
-With plenty of word processing applications available, including those
-that specifically cater to writers, why use a modal editor like Vim?
+With plenty of word processing applications available,
+including those that specifically cater to writers,
+why use a modal editor like Vim?
 Several reasons have been offered:
+
 
 * Your hands can rest in a neutral ‘home’ position, only rarely straying
   to reach for mouse, track pad, or arrow keys
